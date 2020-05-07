@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-
 <html lang="zh">
     <head>
         <meta charset="utf-8" />
@@ -83,10 +81,6 @@
 				
 					<iframe src="https://plotdb.io/v/chart/25352" width="500" height="400px" allowfullscreen="true" frameborder="0"></iframe>
 				
-				</section>
-				
-           </section>
-
 		   <section>
 		   
                 <h3 class="bbbb"><span class="ckk"><strong>結語</strong></span></h3>
@@ -97,8 +91,6 @@
 				變化，不斷的推陳出新才是挽留人流的好方法，期許市府能夠更加進步！</p>
 				
             </section>
-
-        </article>
         
         <footer>
 		
@@ -106,4 +98,3 @@
 		
         </footer>
     </body>
-</html>
